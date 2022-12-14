@@ -23,4 +23,4 @@ Here are some languages and tools I like using:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MechaFlex&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Below you can find some pinned projects that I'm working or have worked on recently.
+Below you can find some pinned projects that I'm working on or have worked on recently.
