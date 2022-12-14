@@ -11,6 +11,7 @@ Here are some languages and tools I like using:
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"				title="Figma"		alt="Figma"			width="40" height="40"/>&nbsp;
 </div>
 
+&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MechaFlex&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MechaFlex&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
