@@ -8,8 +8,7 @@ Here are some languages and tools I like using:
 	<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg#gh-light-mode-only" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-	[https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png#gh-dark-mode-only](https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png)"
-	<>
+	![White Rust Logo](https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png)"
 	<img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
 	<br><!-- Frameworks -->
 	<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
