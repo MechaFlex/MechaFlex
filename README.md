@@ -1,6 +1,6 @@
-### Welcome to my GitHub page!
+### Hello there, I'm Jacob
 
-My name is Jacob and I'm currently studying Software Engineering at Chalmers University of Tecnhology.
+I'm currently studying Software Engineering at Chalmers University of Tecnhology.
 
 Here are some languages and tools I like using:
 <div style="background-color:white;">
