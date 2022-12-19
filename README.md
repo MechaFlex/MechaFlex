@@ -1,6 +1,6 @@
 ### Hello there, I'm Jacob
 
-I'm currently studying Software Engineering at Chalmers University of Tecnhology.
+I'm currently studying Software Engineering at Chalmers University of Technology.
 
 Here are some languages and tools I like using:
 <div style="background-color:white;">
